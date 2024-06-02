@@ -1,0 +1,27 @@
+[OK] Adicionar abaixo do campo descrição o campo hashtags;
+[OK] Ao mostrar hashtags no painel, elas devem ser links que direcionam
+    para uma página com filtro dessa hashtag;
+
+[OK] Perfil de usuario onde mostrará os paineis que ele postou;
+[OK] Perfil de usuario onde mostrará os paineis que ele curtiu;
+
+
+[OK] Linkar o editar perfil no perfil de usuario;
+
+
+
+[OK] Visualizar perfil de outras pessoas;
+    [OK]Like/deslike estando no perfil de outras pessoas;
+
+
+[OK] As hashtags não estão aparecendo quando se visualiza um perfil;
+
+
+[OK] Search de usuario;
+[OK] Atualizar / Apagar paineis meus paineis;
+
+
+
+
+
+[OK] Atualizar erros de login/cadastro para js ao invés de php;
